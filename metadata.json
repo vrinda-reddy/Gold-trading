@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gold Trade Daily Report",
+  "description": "A multi-user web app that lets authorized users view and edit a “Gold Trade – Daily Report” table with automated financial calculations.",
+  "requestFramePermissions": []
+}
